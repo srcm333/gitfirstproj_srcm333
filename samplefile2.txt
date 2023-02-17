@@ -2,3 +2,4 @@ thisis samplefile 2
 
 hi this is samfile 2 but in main directory
 \thanks for doing murthy!
+this is stash lecture, change in file2
