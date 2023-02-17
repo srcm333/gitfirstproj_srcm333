@@ -1,1 +1,4 @@
-thisis samplefile 1
+thisis samplefile 2
+
+hi this is samfile 2 but in main directory
+\thanks for doing murthy!
